@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Gaurav Singh Kabdwal
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Data Structures and Algorithms
 - 📫 How to reach me  gskabdwal@gmail.com or www.linkedin.com/in/gauravkabdwal
 
 <!---
