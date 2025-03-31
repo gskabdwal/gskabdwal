@@ -133,7 +133,9 @@
 
 ###
 
-# LeetCode Stata 
+# LeetCode Stats 
+
+<br clear="both">
 
 ![](https://leetcard.jacoblin.cool/gskabdwal?ext=heatmap)
 
