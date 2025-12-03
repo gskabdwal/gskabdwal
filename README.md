@@ -133,10 +133,10 @@
 
 ###
 
-# LeetCode Stats 
+# 📊 LeetCode Stats
 
 <br clear="both">
-
-![](https://leetcard.jacoblin.cool/gskabdwal?ext=heatmap)
-
-![](https://leetcard.jacoblin.cool/gskabdwal?ext=contest)
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://leetcard.jacoblin.cool/gskabdwal?ext=heatmap" alt="LeetCode Heatmap" height="300">
+  <img src="https://leetcard.jacoblin.cool/gskabdwal?ext=contest" alt="LeetCode Contest Stats" height="300">
+</div>
