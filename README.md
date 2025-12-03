@@ -4,11 +4,13 @@
 
 <div align="center">
   
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gskabdwal&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=gskabdwal&layout=compact&theme=dracula&cache_seconds=7200" height="150" />
 
- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=gskabdwal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 
- </div>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gskabdwal&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&cache_seconds=7200" height="150" />
+
+
+</div>
 
 ###
 
