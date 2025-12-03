@@ -4,10 +4,10 @@
 
 <div align="center">
   
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=gskabdwal&layout=compact&theme=dracula&cache_seconds=7200" height="150" />
+<!-- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=gskabdwal&layout=compact&theme=dracula&cache_seconds=7200" height="150" />
 
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gskabdwal&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&cache_seconds=7200" height="150" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gskabdwal&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&cache_seconds=7200" height="150" /> -->
 
 
 </div>
